@@ -1,0 +1,24 @@
+3
+0.0 1.0 supersonicout
+1.0 22.78441 solidwall
+-0.217468024798
+22.78441 23.78441 solidwall
+0.0
+1
+0.0 23.78441 solidwall
+0.0
+1
+0.0 6.147 supersonicin
+2178.29 0.0340956 10.0 0.0 1.0 0.0 0.0 1.0
+1
+0.0 6.147 supersonicout
+77 0.
+20 0.
+strang
+0.500000 .false.
+0.500000
+2500.000000
+1
+2
+engine_flowh.50p2muscl.dat
+true
